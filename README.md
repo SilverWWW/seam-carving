@@ -3,3 +3,5 @@ Project created in Accelerated Fundamentals of Computer Science 2 at Northeaster
 
 Example:
 
+![](https://github.com/SilverWWW/seam-carving/blob/main/SeamCarvingExample.gif)
+
